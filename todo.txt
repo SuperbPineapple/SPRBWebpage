@@ -1,0 +1,7 @@
+-update website
+
+xbsni related
+-update xbsnilegacy for nonnumber support
+-update both xbsnis to not reset on enter
+-add mfg date support
+-change input to allow spaces
